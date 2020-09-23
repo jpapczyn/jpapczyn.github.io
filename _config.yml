@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: CPP 527 Lab 05
 
 # Your name to show in the footer
-author: Some Person
+author: Joseph Papczynski
 
 # --- List of links in the navigation bar --- #
 
@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: ""
+  facebook: 
+  github: jpapczyn
+  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -94,12 +94,12 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
+navbar-col: "#D3D3D3"
+navbar-text-col: "#00080"
+navbar-border-col: "#778899"
+page-col: "#DCDCDC"
+text-col: "#000000"
+link-col: "#00080"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
