@@ -24,7 +24,7 @@ gosling:
 
 
 
-![](C:\Users\joeyp\Desktop\Data Wrangling\Lab 05\ryan-v-ryan.jpg)  
+![](img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
