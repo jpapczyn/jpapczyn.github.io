@@ -19,7 +19,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "gettingstarted"
-  Table Demo: "table_demo"
+  Table Demo: "table-demo"
   Author's home: "https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms/"
 
 # --- Logo --- #
